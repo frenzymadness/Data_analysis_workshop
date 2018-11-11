@@ -3,6 +3,9 @@
 Instalace všeho potřebného není složitá a zabere jen chvíli. Jako obvykle si ale můžeš
 vybrat hned z několika možností.
 
+> Další kroky počítají s tím, že máš nainstalovaný a funkční Python 3.
+Pokud ne, návod na instalaci máme k dispozici [v začátečnickém kurzu](https://naucse.python.cz/course/pyladies/sessions/install/).
+
 ## Windows
 
 Pokud už máš nainstalovaný Python 3 a vše bez potíží funguje, použij pro instalaci

@@ -7,6 +7,7 @@ Workshop datové analýzy v Pythonu (Jupyter Notebook, Pandas, Matplotlib)
 1. [Instalace](instalace.md)
 2. [Jupyter notebook](jupyter&#32;notebook.md)
 3. [Analýza pokémonů](datova&#32;analyza.ipynb)
+4. [Cvičení během lekce + závěrečné cvičení](cvičení.md)
 
 ## Zdroje dat
 

@@ -182,7 +182,7 @@ Například zápis `$$ c = \sqrt(a^2 + b^2)$$` bude po spuštění buňky vypada
 
 ## Úkol
 
-To je pro dnešek vše. Pojďme si zkusit naprogramovat něco konkrétního, na čem si
+To je pro tuto chvíli k notebooku vše. Pojďme si zkusit naprogramovat něco konkrétního, na čem si
 práci s Notebookem budeme moci vyzkoušet a vyřešit případné problémy či
 nejasnosti.
 
@@ -197,6 +197,3 @@ odpovědí „konec“.
 * Tohle se bude opakovat, dokud hra nedostane odpovědí na všechny čtyři otázky.
 * Z odpovědí pak vybere náhodou odpověď pro každou část, ze které následně složí
 výslednou větu.
-
-Řešení je samozřejmě k dispozici jako [Jupyter Notebook](solutions/solution.ipynb)
-a také jako [HTML soubor](solutions/solution.html) k nahlédnutí.

@@ -4,9 +4,8 @@
 
 Pokus se v notebooku odpovědět na následující otázky:
 
-1. Kdo je nejlepší obyčejný pokémon (není legendární)?
-2. Jaký je rozdíl ve skóre (Total) mezi nejlepším legendárním a nejlepším
-    obyčejným pokémonem?
+1. Který dětský pokémon je nejtěžší?
+2. Kolik dospělých pokémonů je lehčích než nejtěžší dítě?
 
 ## 2. Grafy
 
@@ -15,7 +14,8 @@ Pokus se v notebooku odpovědět na následující otázky:
 
 ## 3. Skupiny pokémonů
 
-1. Která kombinace typů pokémona je nejlepší a která nejhorší?
+1. Jaká je průměrná váha pokémonů dle jednotlivých tvarů?
+2. Existují nějaké významně časté kombinace barev a tvarů?
 
 ## Závěrečné cvičení
 

@@ -18,13 +18,13 @@ s vizualizacemi a výsledky, připravit si prezentaci či datovou analýzu atp
 Po úspěšné instalaci lze Jupyter Notebook spustit jednoduchým příkazem:
 
 ```shell
-$ jupyter-notebook
+(venv)$ jupyter-notebook
 ```
 
 Pokud ti tento příkaz nefunguje, vyzkoušej následující:
 
 ```shell
-$ python3 -m notebook
+(venv)$ python -m notebook
 ```
 
 > Opět, používáš-li Windows, budeš muset pravděpodobně použít místo `python3` jen `python`.

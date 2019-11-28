@@ -5,6 +5,7 @@ vybrat hned z několika možností.
 
 > Další kroky počítají s tím, že máš nainstalovaný a funkční Python 3.
 Pokud ne, návod na instalaci máme k dispozici [v začátečnickém kurzu](https://naucse.python.cz/course/pyladies/sessions/install/).
+Součástí je i návod na vytvoření virtuálního prostředí a jeho aktivaci.
 
 ## Windows
 
@@ -52,22 +53,17 @@ $ brew install jupyter
 
 Pokud máš Python 3 již nainstalovaný, můžeš pro instalaci balíčků použít jeho
 modul jménem `pip`. Instalovat je možné buď přímo do systému, nebo do konkrétního
-virtuálního prostředí. Abychom si ušetřili práci při spouštění notebooku
-a abychom jej také měli k dispozici pro všechny naše projekty, nainstalujeme si
-jej přímo bez aktivovaného virtuálního prostředí.
+virtuálního prostředí. My si jej jako obvykle nainstalujeme do virtuálního
+prostředí.
 
-Do příkazové řádky zadej následující příkaz:
-
+Po aktivaci virtuálního prostředí zadej následující příkaz:
 ```shell
-$ python3 -m pip install --user jupyter
+(venv)$ python3 -m pip install --user jupyter
 ```
-
-> Používáš-li Windows, budeš muset pravděpodobně na začátku příkazů použít místo
-`python3` jen `python`.
 
 ## Instalace ostatních knihoven
 
-Jupyter notebook je nástroj, ve kterém budeme analýzu tvořit. Mimo nej budeme
+Jupyter notebook je nástroj, ve kterém budeme analýzu tvořit. Mimo něj budeme
 ale potřebovat ještě:
 
 * Pandas, což je knihovna pro zpracování dat a samotnou analýzu a

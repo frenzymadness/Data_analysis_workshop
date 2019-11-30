@@ -9,7 +9,7 @@ Workshop datové analýzy v Pythonu (Jupyter Notebook, Pandas, Matplotlib)
 3. [Analýza pokémonů](datova&#32;analyza.ipynb)
 4. [Cvičení během lekce + závěrečné cvičení](cvičení.md)
 
-## Zdroje dat
+## Zdroje dat pro závěrečné cvičení
 
 * [kaggle.com](https://www.kaggle.com/) - skvělý zdroj informací a dat
 * [Český statistický úřad](https://www.czso.cz/csu/czso/domov)

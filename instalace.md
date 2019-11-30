@@ -58,7 +58,7 @@ prostředí.
 
 Po aktivaci virtuálního prostředí zadej následující příkaz:
 ```shell
-(venv)$ python3 -m pip install --user jupyter
+(venv)$ python -m pip install jupyter
 ```
 
 ## Instalace ostatních knihoven
@@ -72,7 +72,7 @@ ale potřebovat ještě:
 Obě nainstalujeme stejným způsobem pomocí pipu:
 
 ```shell
-$ python3 -m pip install --user pandas matplotlib
+(venv)$ python -m pip install pandas matplotlib
 ```
 
 Po úspěšné instalaci by měl jít Jupyter spustit. Jak na to se dozvíš

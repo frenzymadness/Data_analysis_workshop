@@ -27,8 +27,6 @@ Pokud ti tento příkaz nefunguje, vyzkoušej následující:
 (venv)$ python -m notebook
 ```
 
-> Opět, používáš-li Windows, budeš muset pravděpodobně použít místo `python3` jen `python`.
-
 Po spuštění Notebooku se automaticky spustí i webový prohlížeč, ve kterém se
 ti editor zobrazí.
 

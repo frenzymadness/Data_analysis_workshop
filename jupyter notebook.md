@@ -48,6 +48,9 @@ Notebook jich zvládne daleko více a tak si na své přijdou úplně všichni.
 
 ![Notebook UI](static/jupyter_notebook_new.png)
 
+> Pokud rozhraní nevypadá jako na obrázku, klikněte na `View` → `Toggle Header`
+a také na `View` → `ToggleToolbar`.
+
 Notebook nemá nijak složité rozhraní. Na prvním řádku najdeš informaci o názvu
 dokumentu a posledním uložení, pod tím pak ovládací prvky a hlavní nabídku.
 Ještě kousek níže pak prázdnou buňku čekající na první obsah.

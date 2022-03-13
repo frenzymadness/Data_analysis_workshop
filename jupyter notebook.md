@@ -20,6 +20,10 @@ Po úspěšné instalaci lze Jupyter Notebook spustit jednoduchým příkazem:
 ```shell
 (venv)$ jupyter-notebook
 ```
+resp.
+```shell
+(venv)$ jupyter notebook
+```
 
 Pokud ti tento příkaz nefunguje, vyzkoušej následující:
 
@@ -194,7 +198,7 @@ hru s následujícím průběhem:
 * Hra se uživatele zeptá na otázku (např. „Kdo?“) a nechá ho odpovídat, dokud se
 mu bude chtít. Konec odpovídání na nějakou otázku může být signalizován třeba
 odpovědí „konec“.
-* Po té hra přejde na další otázku v řadě - „S kým?“. 
+* Po té hra přejde na další otázku v řadě - „S kým?“.
 * Tohle se bude opakovat, dokud hra nedostane odpovědí na všechny čtyři otázky.
 * Z odpovědí pak vybere náhodou odpověď pro každou část, ze které následně složí
 výslednou větu.

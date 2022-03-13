@@ -58,7 +58,7 @@ prostředí.
 
 Po aktivaci virtuálního prostředí zadej následující příkaz:
 ```shell
-(venv)$ python -m pip install jupyter
+(venv)$ python -m pip install notebook
 ```
 
 ## Instalace ostatních knihoven

@@ -1,4 +1,4 @@
-id,name,height,weight,color,shape,is baby,type 1,type 2,hp,attack,defense,sp. attack,sp. defense,speed,total,generation,evolves from,evolution group,fm gender ratio,has_gender_differences
+id,name,height,weight,color,shape,is_baby,type 1,type 2,hp,attack,defense,sp. attack,sp. defense,speed,total,generation,evolves from,evolution group,fm gender ratio,has_gender_differences
 1,bulbasaur,0.7,6.9,green,quadruped,False,Grass,Poison,45,49,49,65,65,45,318,1,,1,1:7,0
 2,ivysaur,1.0,13.0,green,quadruped,False,Grass,Poison,60,62,63,80,80,60,405,1,1.0,1,1:7,0
 3,venusaur,2.0,100.0,green,quadruped,False,Grass,Poison,80,82,83,100,100,80,525,1,2.0,1,1:7,1
